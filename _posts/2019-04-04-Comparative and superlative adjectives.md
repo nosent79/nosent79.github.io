@@ -1,45 +1,47 @@
 ---
 layout: post
-title: present continuous
+title: Comparative and superlative adjectives
 category: english
 tags: [english]
 comments: true
 ---
 
-> present continuous
+> Comparative and superlative adjectives
 
 ---
 
-continuous aspect
-Both tenses have a continuous form. These continuous tenses are formed with the verb be and the –ing form of the verb:
+Comparative adjectives
+We use comparative adjectives to show change or make comparisons:
 
-We use continuous aspect:
+This car is certainly better, but it's much more expensive.
+I'm feeling happier now.
+We need a bigger garden.
 
-> for something happening before and after a given time.
-He’s getting on the train. [before and after the moment of speaking]
-It was quarter past ten. We were watching the news on television.
+We use than when we want to compare one thing with another:
 
-> for something continuing before and after another action:
-Mother will be cooking the dinner when we get home.
-We were waiting for the bus when it started to rain.
+She is two years older than me.
+New York is much bigger than Boston.
+He is a better player than Ronaldo.
+France is a bigger country than Britain.
 
-> for something continuing for some time:
-Everybody will be waiting for us.
-They had been working hard all day.
+When we want to describe how something or someone changes we can use two comparatives with and:
 
-> for something happening again and again:
-They’ve been doing that every day this week.
-The children were always shouting.
-He will be practising the piano every night.
+The balloon got bigger and bigger.
+Everything is getting more and more expensive.
+Grandfather is looking older and older. 
 
-> for something temporary:
-We are renting an apartment until our house is ready..
-He was working in a garage during the vacation.
+We often use the with comparative adjectives to show that one thing depends on another:
 
-> for something new:
-We have moved from Birmingham. We’re living in Manchester now.
-He had left university and was working in his father’s business.
+The faster you drive, the more dangerous it is. 
+(= When you drive faster, it is more dangerous.)
 
-> to describe something changing or developing:
-Everything has been getting more difficult.
-He was growing more bad-tempered every day. 
+The higher they climbed, the colder it got. 
+(= When they climbed higher, it got colder.)
+
+Superlative adjectives
+We use the with superlative adjectives:
+
+It was the happiest day of my life.
+Everest is the highest mountain in the world.
+That’s the best film I have seen this year.
+I have three sisters: Jan is the oldest and Angela is the youngest. 
