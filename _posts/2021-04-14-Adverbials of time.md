@@ -1,64 +1,42 @@
 ---
 layout: post
-title: past simple
+title: Adverbials of time
 category: english
 tags: [english]
 comments: true
 ---
 
-> past simple
+> Adverbials of time
 
 ---
 
-Forms
+  
+We use adverbials of time to say:
 
-With most verbs the past tense is formed by adding -ed:
+• when something happened:
 
-call >> called; like >> liked; want >> wanted; work >> worked
+I saw Mary yesterday.  
+She was born in 1978.  
+I will see you later.  
+There was a storm during the night.  
 
-But there are a lot of irregular past tenses in English. Here are the most common irregular verbs in English, with their past tenses:
-Use
-We use the past tense to talk about:
+• for how long :
 
-> something that happened once in the past:
+We waited all day.  
+They have lived here since 2004.  
+We will be on holiday from July 1st until August 3rd.
 
-I met my wife in 1983. <br />
-We went to Spain for our holidays. <br />
-They got home very late last night. <br />
+• how often (frequency):
 
-> something that happened again and again in the past:
+They usually watched television in the evening.  
+We sometimes went to work by car.
 
-When I was a boy I walked a mile to school every day.<br />
-We swam a lot while we were on holiday.<br />
-They always enjoyed visiting their friends.<br />
+We often use a noun phrase as a time adverbial:
 
-> something that was true for some time in the past:
-
-I lived abroad for ten years.<br />
-He enjoyed being a student.<br />
-She played a lot of tennis when she was younger.<br />
-
-> we often use phrases with ago with the past tense:
-
-I met my wife a long time ago.
-
-> Questions and negatives<br />
-We use did to make questions with the past tense:
-
-When did you meet your wife?<br />
-Where did you go for your holidays?<br />
-Did she play tennis when she was younger?<br />
-Did you live abroad?<br />
-
-> But look at these questions:
-
-Who discovered penicillin?<br />
-Who wrote Don Quixote?<br />
-
-For more on these questions see our question forms page
-
-We use didn’t (did not) to make negatives with the past tense:
-
-They didn’t go to Spain this year.
-We didn’t get home until very late last night.
-I didn’t see you yesterday. 
+ 
+|   |   |   |   |
+|---|---|---|---|
+| yesterday | last week/month/year  | one day/week/month | last Saturday |
+| tomorrow  |  next week/month/year | the day after tomorrow | next Friday |
+| today | this week/month/year | the day before yesterday | the other day/week/month  |
+|   |   |   |   |
